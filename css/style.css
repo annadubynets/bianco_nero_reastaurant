@@ -4,18 +4,18 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: url("../images/reastaurant_bg.png");
+    background-repeat: no-repeat;
+}
+
 .reastaurant-section {
     background: #3f0002;
     border-top: 38px solid #af2024;
 }
 
-.img-position {
-    position: absolute;
-}
-
 .logo-img {
-    position: relative;
-    top: 19px;
+    margin-top: 19px;
 }
 
 .wrapper {
