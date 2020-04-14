@@ -1,0 +1,159 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.reastaurant-section {
+    background: #3f0002;
+    border-top: 38px solid #af2024;
+}
+
+.img-position {
+    position: absolute;
+}
+
+.logo-img {
+    position: relative;
+    top: 19px;
+}
+
+.wrapper {
+    margin: auto;
+    max-width: 960px;
+}
+
+.social-list {
+    position: fixed;
+    top: 222px;
+    right: 0;
+    z-index: 100;
+    list-style: none;
+}
+
+.facebook-container {
+    background-color: #850409;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.facebook-container a {
+    color: #ffffff;
+    font-size: 33px;
+    line-height: 50px;
+}
+
+.twitter-container {
+    background-color: #98161b;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.twitter-container a {
+    color: #ffffff;
+    font-size: 27px;
+    line-height: 50px;
+}
+
+.video-title-section {
+    background-color: #98161b;
+    padding: 27px 18px;
+}
+
+h3 {
+    font-family: 'Arvo', serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.section {
+    position: relative;
+    top: 36px;
+}
+
+.video-section {
+    background-color: #ffffff;
+    padding-top: 63px;
+    padding-bottom: 124px;
+}
+
+.video-wrapper {
+    margin: auto;
+    max-width: 710px;
+}
+
+.video-title-wrapper {
+    margin: auto;
+    max-width: 567px;
+}
+
+.play-video-container {
+    margin: auto;
+    max-width: 567px;
+    height: 347px;
+    background-color: #e7e7e7;
+    position: relative;
+}
+
+.play-video-container a {
+    width: 47px;
+    height: 54px;
+    line-height: 54px;
+    font-size: 54px;
+    color: #98161b;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+
+.category-name-desc {
+    font-family: 'Arvo', serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #98161b;
+    padding-top: 29px;
+}
+
+.category-name-desc span {
+    font-family: 'Arvo', serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #7d7d7d;
+}
+
+.video-desc {
+    font-family: 'Arvo', serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #98161b;
+    line-height: 18px;
+    padding-top: 20px;
+}
+
+.video-desc:before {
+    content: ".........";
+    display: block;
+    color: #98161b;
+    padding-bottom: 17px;
+}
+
+.play-video-container a {
+    width: 47px;
+    height: 54px;
+    color: #98161b;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+
+footer {
+    background-color: #000000;
+    height: 454px;
+}
