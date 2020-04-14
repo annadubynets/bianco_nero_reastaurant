@@ -7,10 +7,7 @@
 body {
     background-image: url("../images/reastaurant_bg.png");
     background-repeat: no-repeat;
-}
-
-.reastaurant-section {
-    background: #3f0002;
+    background-color: #3f0002;
     border-top: 38px solid #af2024;
 }
 
