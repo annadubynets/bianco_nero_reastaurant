@@ -9,10 +9,9 @@ body {
     background-repeat: no-repeat;
     background-color: #3f0002;
     border-top: 38px solid #af2024;
-}
-
-.logo-img {
-    margin-top: 19px;
+    padding-top: 20px;
+    position: relative;
+    background-size: 100% auto;
 }
 
 .wrapper {
